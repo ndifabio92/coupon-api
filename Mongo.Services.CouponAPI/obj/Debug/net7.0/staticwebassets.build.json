@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pokuk5ZtVvmp1gRV4V2ZOpuqRiseAai8fwciwSjvgc8=",
+  "Source": "Mongo.Services.CouponAPI",
+  "BasePath": "_content/Mongo.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
